@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>spine</artifactId>
-    <version>1.1.0</version>
+    <version>1.1.1-SNAPSHOT</version>
     <name>Spine</name>
     <description>WebJar for Spine</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/spine</url>
         <connection>scm:git:https://github.com/webjars/spine.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/spine.git</developerConnection>
-        <tag>spine-1.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
